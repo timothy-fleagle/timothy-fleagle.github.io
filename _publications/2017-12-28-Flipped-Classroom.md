@@ -1,7 +1,7 @@
 ---
 title: "Application of flipped classroom pedagogy to the human gross anatomy laboratory: Student preferences and learning outcomes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2017-12-28-Flipped-Classroom
 excerpt: ''
 date: 2017-12-28
 venue: 'Anatomical Sciences Education'
