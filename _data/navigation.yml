@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: "timothy-fleagle.github.io/talks/" 
+    url: /publications
 
   - title: "Talks"
     url: "timothy-fleagle.github.io/talks/"   
