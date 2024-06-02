@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Timothy Fleagle PT, DPT"
   pronouns         : "He/Him"  
-  bio              : "I am a physical therapist and researcher interested in musculoskeletal pain"
-  location         : "Iowa City"
+  bio              : "I am a physical therapist and researcher interested in musculoskeletal pain. Currently a PhD student in the Movement Imaging and Rehabilitation Lab at the University of Iowa."
+  location         : "Iowa City, IA"
   employer         : "University of Iowa"
-  uri              : # URL
+  uri              : "https://medicine.uiowa.edu/pt/research/movement-imaging-rehabilitation-laboratory"
   email            : "timothy-fleagle@uiowa.edu" 
 
   # Academic websites
