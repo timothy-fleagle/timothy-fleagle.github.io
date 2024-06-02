@@ -1,22 +1,17 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: timothy-fleagle.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: timothy-fleagle.github.io/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: timothy-fleagle.github.io/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: timothy-fleagle.github.io/portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
-    url: /cv/
+    url: timothy-fleagle.github.io/cv/
     
-  - title: "Guide"
-    url: /markdown/
