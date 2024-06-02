@@ -4,14 +4,14 @@ main:
     url: /publications
 
   - title: "Talks"
-    url: "timothy-fleagle.github.io/talks/"   
+    url: /talks
 
   - title: "Teaching"
-    url: "timothy-fleagle.github.io/teaching/"    
+    url: /teaching/    
     
   - title: "Portfolio"
-    url: "timothy-fleagle.github.io/portfolio/"
+    url: /portfolio
         
   - title: "CV"
-    url: "timothy-fleagle.github.io/cv/"
+    url: /cv/
     
