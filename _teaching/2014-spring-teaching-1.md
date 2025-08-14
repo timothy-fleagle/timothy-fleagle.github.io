@@ -2,7 +2,7 @@
 title: "Clinical Instructor"
 collection: teaching
 type: "DPT Case-based and clinical educatoin"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/pre-phd_teaching.md
 venue: "University of Iowa, Physical Therapy and Rehabiliation Sciences"
 date: 2019-2021
 location: "Iowa City, United States"
