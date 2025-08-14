@@ -4,7 +4,7 @@ collection: teaching
 type: "DPT Case-based and clinical educatoin"
 permalink: /teaching/pre-phd_teaching.md
 venue: "University of Iowa, Physical Therapy and Rehabiliation Sciences"
-date: 2019-2021
+date: 2019-01-01
 location: "Iowa City, United States"
 ---
 
