@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Clinical Instructor"
 collection: teaching
-type: "Undergraduate course"
+type: "DPT Case-based and clinical educatoin"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Iowa, Physical Therapy and Rehabiliation Sciences"
+date: 2019-2021
+location: "Iowa City, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
 
-Heading 2
+Case-Based Learning
 ======
+Lead small groups of DPT through musculoskeletal and cardiopulmonary cases to improve clinical decision making
 
-Heading 3
+Clinical Education
 ======
+Acted as primary clinical instructor for short and long term clinical education experiences for DPT students in inpatient and outpatient settings. 
